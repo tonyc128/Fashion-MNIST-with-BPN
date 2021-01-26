@@ -5,6 +5,9 @@ Fashion MNIST using BPN (one hidden layer)
 ## Result
 accuracy: 85.95%
 
+![](https://i.imgur.com/gRZFUDI.png)
+![](https://i.imgur.com/IirXknn.png)
+
 ## Dataset 
 The dataset this project is using is from https://www.kaggle.com/zalando-research/fashionmnist.
 
