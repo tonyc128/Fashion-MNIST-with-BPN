@@ -9,7 +9,7 @@ accuracy: 85.95%
 ![](https://i.imgur.com/IirXknn.png)
 
 ## Dataset 
-The dataset this project is using is from https://www.kaggle.com/zalando-research/fashionmnist.
+The dataset this project using is from https://www.kaggle.com/zalando-research/fashionmnist.
 
 ## Notice
 Seperate the original training data set into fashion-mnist_train_data and fashion-mnist_train_label.
