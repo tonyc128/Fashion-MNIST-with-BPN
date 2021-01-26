@@ -3,6 +3,10 @@
 ## Dataset 
 The dataset this project is using is from https://www.kaggle.com/zalando-research/fashionmnist.
 
+## Notice
+You need to seperate the original training data set into fashion-mnist_train_data and fashion-mnist_train_label.
+And seperate the original testing data set into fashion-mnist_test_data and fashion-mnist_test_label.
+
 ## 說明
 在此實驗中，我們使用兩種方法。第一種方法是基礎的One hidden layer Neural Network with BPN。第二種方法是仿造Paper所提出的方法，並稍作修改，實現CNN的圖片辨識。
 One hidden layer Neural Network with BPN
@@ -45,6 +49,4 @@ Inner-Product (Hidden Layer)：由已知傳遞到該層的梯度 (dEdy)，透過
 ![](https://i.imgur.com/JbuKoki.png)
 
 
-## Notice
-You need to seperate the original training data set into fashion-mnist_train_data and fashion-mnist_train_label.
-And seperate the original testing data set into fashion-mnist_test_data and fashion-mnist_test_label.
+
