@@ -1,5 +1,8 @@
 # Fashion-MNIST-with-BPN
 
+## Result
+accuracy: 85.95%
+
 ## Dataset 
 The dataset this project is using is from https://www.kaggle.com/zalando-research/fashionmnist.
 
