@@ -1,4 +1,5 @@
 # Fashion-MNIST-with-BPN
+![](https://i.imgur.com/bbCJO3t.png)
 
 ## Dataset 
 The dataset this project is using is from https://www.kaggle.com/zalando-research/fashionmnist.
