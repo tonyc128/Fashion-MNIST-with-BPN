@@ -1,5 +1,7 @@
 # Fashion-MNIST-with-BPN
 
+Fashion MNIST using BPN (one hidden layer)
+
 ## Result
 accuracy: 85.95%
 
